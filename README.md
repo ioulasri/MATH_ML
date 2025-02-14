@@ -130,7 +130,7 @@ Math_for_ML/
 ---
 
 ## 👥 Contributors
-- **[Your Name]** - Initial setup and content organization
+- **[Imad OULASRI]** - 1337 Student
 
 ---
 
